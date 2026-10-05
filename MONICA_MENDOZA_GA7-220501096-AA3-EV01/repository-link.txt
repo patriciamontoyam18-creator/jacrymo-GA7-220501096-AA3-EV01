@@ -1,0 +1,9 @@
+REPOSITORIO GITHUB
+
+Pegue aquí la URL real del repositorio después de publicarlo.
+
+Ejemplo:
+https://github.com/SU-USUARIO/jacrymo-modulo-productos
+
+Comando utilizado para vincularlo:
+git remote add origin URL_DEL_REPOSITORIO
