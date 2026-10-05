@@ -1,9 +1,7 @@
 REPOSITORIO GITHUB
 
-Pegue aquí la URL real del repositorio después de publicarlo.
+Proyecto: JACRYMO - Módulo de gestión de productos
 
-Ejemplo:
-https://github.com/SU-USUARIO/jacrymo-modulo-productos
+URL del repositorio:
+https://github.com/patriciamontoyam18-creator/jacrymo-GA7-220501096-AA3-EV01git add repository-link.txt
 
-Comando utilizado para vincularlo:
-git remote add origin URL_DEL_REPOSITORIO
